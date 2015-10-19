@@ -1,5 +1,5 @@
 # Character-detective
-Find characters used in file without duplicate
+Find characters used in a file without duplicate
 
 # Usage
 run ttt.py
